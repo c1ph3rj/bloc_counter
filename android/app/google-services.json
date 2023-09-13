@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648208525215",
+    "project_id": "bloc-counter-61122",
+    "storage_bucket": "bloc-counter-61122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648208525215:android:44d444005bb82f55133faa",
+        "android_client_info": {
+          "package_name": "com.c1ph3rj.bloc_counter.bloc_counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648208525215-sqa7nm7edh9i2bi933ga48ta6gkql0g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2RldC2j6MSfmgX3CObPl7zEzMCldxPP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648208525215-sqa7nm7edh9i2bi933ga48ta6gkql0g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
